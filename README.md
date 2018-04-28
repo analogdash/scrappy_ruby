@@ -1,2 +1,2 @@
 # scrappy_ruby
-Simple implementation in Ruby to scrap sequential jpegs
+Simple implementation in Ruby to scrape sequential jpegs
